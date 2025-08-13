@@ -6,7 +6,7 @@ local Players = game:GetService("Players")
 
 -- Animation-IDs (deine drei IDs)
 local dances = {
-    {name = "Dance 1", id = 18953372238},
+    {name = "Dance 1", id = 507768133},
     {name = "Dance 2", id = 966270845},
     {name = "Dance 3", id = 4868656243},
 }
